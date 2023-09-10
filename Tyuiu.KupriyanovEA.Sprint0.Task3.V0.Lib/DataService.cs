@@ -13,5 +13,10 @@ namespace Tyuiu.KupriyanovEA.Sprint0.Task3.V0.Lib
         {
             return a + b;
         }
+        // проба для минуса
+        public static int Min(int d, int c)
+        {
+            return d - c;
+        }
     }
 }

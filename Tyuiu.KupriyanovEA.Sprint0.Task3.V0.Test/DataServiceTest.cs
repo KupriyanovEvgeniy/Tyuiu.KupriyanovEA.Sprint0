@@ -12,6 +12,7 @@ namespace Tyuiu.KupriyanovEA.Sprint0.Task3.V0.Test
         public void CheckedValid()
         {
             Assert.AreEqual(10, DataService.Sum(5, 5));
+            Assert.AreEqual(30, DataService.Min(15, 5));
         }
     }
 }
