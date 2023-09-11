@@ -8,7 +8,7 @@ namespace Tyuiu.KupriyanovEA.Sprint0.Task4.V0.Lib
 {
     public class DataService
     {
-        // Пример линейной структуры
+        
         public static int Addition(int a, int b)
         {
             return a + b;
