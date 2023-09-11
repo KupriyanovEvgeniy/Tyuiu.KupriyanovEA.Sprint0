@@ -27,8 +27,7 @@ namespace Tyuiu.KupriyanovEA.Sprint0.Task5.V0.Lib
         {
             if (b == 0)
             {
-                //Демонстрация ветвления
-                //В реальных проектах используем Exception
+                
                 Console.WriteLine("Переменная b = {0} на ноль делить нельзя", b);
                 return -1;
             }
